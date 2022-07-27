@@ -1720,5 +1720,5 @@
     "cms.qdwght.com"
   ],
   "drives": [{"server":"","userName":"","password":"","type":"webdav"}],
-  "spider": ""
+  "spider": "https://raw.fastgit.org/TVBoxOXC/TV/main/jar/5.jar"
 }
