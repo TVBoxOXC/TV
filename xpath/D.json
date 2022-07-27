@@ -1,6 +1,6 @@
 {
   "sites": [
-   {
+    {
       "key": "csp_QQ",
       "name": "🐧腾讯(SP)",
       "type": 3,
@@ -8,7 +8,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-	  "spider": "https://raw.githubusercontents.coms/TVBoxOXC/TV/main/jar/6.jar"
+	  "spider": "https://raw.githubusercontents.com/TVBoxOXC/TV/main/jar/6.jar"
     },
     {
       "key": "csp_SP360",
@@ -18,7 +18,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-	  "spider": "https://raw.githubusercontents.coms/TVBoxOXC/TV/main/jar/ts.jar"
+	  "spider": "https://raw.githubusercontents.com/TVBoxOXC/TV/main/jar/ts.jar"
     },
     {
       "key": "csp_LiteApple",
@@ -28,7 +28,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-	  "spider": "https://raw.githubusercontents.coms/TVBoxOXC/TV/main/jar/ts.jar"
+	  "spider": "https://raw.githubusercontents.com/TVBoxOXC/TV/main/jar/ts.jar"
     },
     {
       "key": "csp_Kuaikan",
@@ -38,7 +38,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-	  "spider": "https://raw.githubusercontents.coms/TVBoxOXC/TV/main/jar/ts.jar"
+	  "spider": "https://raw.githubusercontents.com/TVBoxOXC/TV/main/jar/ts.jar"
     },
     {
       "key": "csp_Kunyu77",
@@ -48,7 +48,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-	  "spider": "https://raw.githubusercontents.coms/TVBoxOXC/TV/main/jar/ts.jar"
+	  "spider": "https://raw.githubusercontents.com/TVBoxOXC/TV/main/jar/ts.jar"
     },
     {
       "key": "csp_MGTV",
@@ -58,7 +58,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-	  "spider": "https://raw.githubusercontents.coms/TVBoxOXC/TV/main/jar/6.jar"
+	  "spider": "https://raw.githubusercontents.com/TVBoxOXC/TV/main/jar/6.jar"
     },
     {
       "key": "csp_IQIYI",
@@ -68,7 +68,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-	  "spider": "https://raw.githubusercontents.coms/TVBoxOXC/TV/main/jar/6.jar"
+	  "spider": "https://raw.githubusercontents.com/TVBoxOXC/TV/main/jar/6.jar"
     },
     {
       "key": "csp_Xxys",
@@ -78,7 +78,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-	  "spider": "https://raw.githubusercontents.coms/TVBoxOXC/TV/main/jar/ts.jar"
+	  "spider": "https://raw.githubusercontents.com/TVBoxOXC/TV/main/jar/ts.jar"
     },
     {
       "key": "csp_Kmys",
@@ -88,7 +88,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-	  "spider": "https://raw.githubusercontents.coms/TVBoxOXC/TV/main/jar/6.jar"
+	  "spider": "https://raw.githubusercontents.com/TVBoxOXC/TV/main/jar/6.jar"
     },
     {
       "key": "追剧喵",
@@ -98,7 +98,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-	  "spider": "https://raw.githubusercontents.coms/TVBoxOXC/TV/main/jar/qj.jar"
+	  "spider": "https://raw.githubusercontents.com/TVBoxOXC/TV/main/jar/qj.jar"
     },
     {
       "key": "csp_CZSPP",
@@ -108,7 +108,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-	  "spider": "https://raw.githubusercontents.coms/TVBoxOXC/TV/main/jar/ts.jar"
+	  "spider": "https://raw.githubusercontents.com/TVBoxOXC/TV/main/jar/ts.jar"
     },
     {
       "key": "csp_IKan",
@@ -118,7 +118,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-	  "spider": "https://raw.githubusercontents.coms/TVBoxOXC/TV/main/jar/ts.jar"
+	  "spider": "https://raw.githubusercontents.com/TVBoxOXC/TV/main/jar/ts.jar"
     },
     {
       "key": "csp_Mjxq",
@@ -128,7 +128,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-	  "spider": "https://raw.githubusercontents.coms/TVBoxOXC/TV/main/jar/6.jar"
+	  "spider": "https://raw.githubusercontents.com/TVBoxOXC/TV/main/jar/6.jar"
     },
     {
       "key": "Lib",
@@ -138,7 +138,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-	  "spider": "https://raw.githubusercontents.coms/TVBoxOXC/TV/main/jar/6.jar"
+	  "spider": "https://raw.githubusercontents.com/TVBoxOXC/TV/main/jar/6.jar"
     },
     {
       "key": "csp_Wmkk",
@@ -148,7 +148,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-	  "spider": "https://raw.githubusercontents.coms/TVBoxOXC/TV/main/jar/qj.jar"
+	  "spider": "https://raw.githubusercontents.com/TVBoxOXC/TV/main/jar/qj.jar"
     },
     {
       "key": "zxzj",
@@ -158,7 +158,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-	  "spider": "https://raw.githubusercontents.coms/TVBoxOXC/TV/main/jar/6.jar"
+	  "spider": "https://raw.githubusercontents.com/TVBoxOXC/TV/main/jar/6.jar"
     },
     {
       "key": "csp_Bttoo",
@@ -168,7 +168,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-	  "spider": "https://raw.githubusercontents.coms/TVBoxOXC/TV/main/jar/6.jar"
+	  "spider": "https://raw.githubusercontents.com/TVBoxOXC/TV/main/jar/6.jar"
     },
     {
       "key": "csp_Auete",
@@ -178,7 +178,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-	  "spider": "https://raw.githubusercontents.coms/TVBoxOXC/TV/main/jar/6.jar"
+	  "spider": "https://raw.githubusercontents.com/TVBoxOXC/TV/main/jar/6.jar"
     },
     {
       "key": "csp_Cokemv",
@@ -188,7 +188,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-	  "spider": "https://raw.githubusercontents.coms/TVBoxOXC/TV/main/jar/6.jar"
+	  "spider": "https://raw.githubusercontents.com/TVBoxOXC/TV/main/jar/6.jar"
     },
     {
       "key": "csp_DY1990",
@@ -198,7 +198,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-	  "spider": "https://raw.githubusercontents.coms/TVBoxOXC/TV/main/jar/6.jar"
+	  "spider": "https://raw.githubusercontents.com/TVBoxOXC/TV/main/jar/6.jar"
     },
     {
       "key": "csp_TKY",
@@ -208,7 +208,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-	  "spider": "https://raw.githubusercontents.coms/TVBoxOXC/TV/main/jar/6.jar"
+	  "spider": "https://raw.githubusercontents.com/TVBoxOXC/TV/main/jar/6.jar"
     },
     {
       "key": "csp_Nfyun",
@@ -218,7 +218,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-	  "spider": "https://raw.githubusercontents.coms/TVBoxOXC/TV/main/jar/6.jar"
+	  "spider": "https://raw.githubusercontents.com/TVBoxOXC/TV/main/jar/6.jar"
     },
     {
       "key": "9E03",
@@ -229,7 +229,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://vod.9e03.com/lvdou_api.php/v1.vod",
-	  "spider": "https://raw.githubusercontents.coms/TVBoxOXC/TV/main/jar/6.jar"
+	  "spider": "https://raw.githubusercontents.com/TVBoxOXC/TV/main/jar/6.jar"
     },
     {
     "key":"293视频",
@@ -240,7 +240,7 @@
       "quickSearch":1,
      "filterable":1,
       "ext":"",
-	  "spider": "https://raw.githubusercontents.coms/TVBoxOXC/TV/main/jar/qj.jar"
+	  "spider": "https://raw.githubusercontents.com/TVBoxOXC/TV/main/jar/qj.jar"
     },
     {
       "key": "csp_hbys",
@@ -251,7 +251,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjoyNTU5OSwiQ3JlYXRlZEF0IjoiMjAyMi0wNy0xN1QwOTo1OTowMy43MzIrMDg6MDAiLCJVcGRhdGVkQXQiOiIyMDIyLTA3LTE3VDA5OjU5OjAzLjczMiswODowMCIsIkRlbGV0ZWRBdCI6bnVsbCwidXNlcl9lbWFpbCI6ImppYW55aW5nOTk5QHFxLmNvbSIsInVzZXJfbmFtZSI6IiIsInVzZXJfcHdkIjoiIiwidXNlcl9pZCI6IjA1NzRiMzAyLTc5MzUtNGFlZi1hOTBkLTFlZjdjMTU3Y2U2MyIsInVzZXJfYW5zd2VyIjoiIiwibG9ja19pcyI6IkZhbHNlIiwiaXNfdHYiOiIiLCJpc19hZG1pbiI6IkZhbHNlIiwicmVnX3RpbWUiOm51bGwsInJlZ19rZXkiOiIiLCJ0dl90aW1lIjpudWxsLCJ0dl9rZXkiOiIifSwiZXhwIjoxNjU4NjI3OTQ2LCJpc3MiOiJBbGZyZWRvIE1lbmRvemEifQ.u2bRjVQAb1DisJYFPmkwPTi_kpaLoOR20hvZ34lVTDY",
-	  "spider": "https://raw.githubusercontents.coms/TVBoxOXC/TV/main/jar/qj.jar"
+	  "spider": "https://raw.githubusercontents.com/TVBoxOXC/TV/main/jar/qj.jar"
     },
     {
       "key": "bdys",
@@ -262,7 +262,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://pti162su22.youhui112.com/Xbiubiu/Bdys.json",
-	  "spider": "https://raw.githubusercontents.coms/TVBoxOXC/TV/main/jar/6.jar"
+	  "spider": "https://raw.githubusercontents.com/TVBoxOXC/TV/main/jar/6.jar"
     },
     {
       "key": "csp_GitCafe",
@@ -272,7 +272,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-	  "spider": "https://raw.githubusercontents.coms/TVBoxOXC/TV/main/jar/6.jar"
+	  "spider": "https://raw.githubusercontents.com/TVBoxOXC/TV/main/jar/6.jar"
     },
     {
       "key": "csp_AliPanSou",
@@ -282,7 +282,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-	  "spider": "https://raw.githubusercontents.coms/TVBoxOXC/TV/main/jar/6.jar"
+	  "spider": "https://raw.githubusercontents.com/TVBoxOXC/TV/main/jar/6.jar"
     },
     {
       "key": "zhaozy",
@@ -293,7 +293,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "ad3c78559a494bde814f1a6c8c40db51",
-	  "spider": "https://raw.githubusercontents.coms/TVBoxOXC/TV/main/jar/qj.jar"
+	  "spider": "https://raw.githubusercontents.com/TVBoxOXC/TV/main/jar/qj.jar"
     },
     {
       "key": "push_agent",
@@ -314,7 +314,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://pti162su22.youhui112.com/Xbiubiu/B站.json",
-	  "spider": "https://raw.githubusercontents.coms/TVBoxOXC/TV/main/jar/6.jar"
+	  "spider": "https://raw.githubusercontents.com/TVBoxOXC/TV/main/jar/6.jar"
     },
     {
       "key": "csp_Blixs",
@@ -324,7 +324,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-	  "spider": "https://raw.githubusercontents.coms/TVBoxOXC/TV/main/jar/6.jar"
+	  "spider": "https://raw.githubusercontents.com/TVBoxOXC/TV/main/jar/6.jar"
     },
     {
       "key": "csp_Blixq",
@@ -334,7 +334,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-	  "spider": "https://raw.githubusercontents.coms/TVBoxOXC/TV/main/jar/6.jar"
+	  "spider": "https://raw.githubusercontents.com/TVBoxOXC/TV/main/jar/6.jar"
     },
     {
       "key": "csp_Bliyc",
@@ -344,7 +344,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1,
-	  "spider": "https://raw.githubusercontents.coms/TVBoxOXC/TV/main/jar/6.jar"
+	  "spider": "https://raw.githubusercontents.com/TVBoxOXC/TV/main/jar/6.jar"
     },
     {
       "key": "csp_Blidw",
@@ -354,7 +354,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-	  "spider": "https://raw.githubusercontents.coms/TVBoxOXC/TV/main/jar/6.jar"
+	  "spider": "https://raw.githubusercontents.com/TVBoxOXC/TV/main/jar/6.jar"
     },
     {
       "key": "csp_Blijc",
@@ -364,7 +364,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-	  "spider": "https://raw.githubusercontents.coms/TVBoxOXC/TV/main/jar/6.jar"
+	  "spider": "https://raw.githubusercontents.com/TVBoxOXC/TV/main/jar/6.jar"
     },
     {
       "key": "csp_Bliqx",
@@ -374,7 +374,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-	  "spider": "https://raw.githubusercontents.coms/TVBoxOXC/TV/main/jar/6.jar"
+	  "spider": "https://raw.githubusercontents.com/TVBoxOXC/TV/main/jar/6.jar"
     },
     {
       "key": "球迷",
@@ -385,7 +385,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://pti162su22.youhui112.com/Xbiubiu/516-qiumi.js",
-	  "spider": "https://raw.githubusercontents.coms/TVBoxOXC/TV/main/jar/6.jar"
+	  "spider": "https://raw.githubusercontents.com/TVBoxOXC/TV/main/jar/6.jar"
     },
     {
       "key": "米来影视",
@@ -396,7 +396,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://pti162su22.youhui112.com/Xbiubiu/qdytv.json",
-	  "spider": "https://raw.githubusercontents.coms/TVBoxOXC/TV/main/jar/6.jar"
+	  "spider": "https://raw.githubusercontents.com/TVBoxOXC/TV/main/jar/6.jar"
     },
     {
       "key": "csp_biubiu_douyu",
@@ -407,7 +407,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://pti162su22.youhui112.com/Xbiubiu/douyu.json",
-	  "spider": "https://raw.githubusercontents.coms/TVBoxOXC/TV/main/jar/6.jar"
+	  "spider": "https://raw.githubusercontents.com/TVBoxOXC/TV/main/jar/6.jar"
     },
     {
       "key": "csp_xpath_huyag",
@@ -418,7 +418,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://pti162su22.youhui112.com/Xbiubiu/huya2.json",
-	  "spider": "https://raw.githubusercontents.coms/TVBoxOXC/TV/main/jar/6.jar"
+	  "spider": "https://raw.githubusercontents.com/TVBoxOXC/TV/main/jar/6.jar"
     },
     {
       "key": "csp_xpath_kuqimv",
@@ -429,7 +429,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://pti162su22.youhui112.com/Xbiubiu/kuqimv.json",
-	  "spider": "https://raw.githubusercontents.coms/TVBoxOXC/TV/main/jar/6.jar"
+	  "spider": "https://raw.githubusercontents.com/TVBoxOXC/TV/main/jar/6.jar"
     },
     {
       "key": "csp_appys_美剧虫",
@@ -440,7 +440,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://meijuchong.com/api.php/v1.vod",
-	  "spider": "https://raw.githubusercontents.coms/TVBoxOXC/TV/main/jar/6.jar"
+	  "spider": "https://raw.githubusercontents.com/TVBoxOXC/TV/main/jar/6.jar"
     },
     {
       "key": "csp_xpath_lezhutv",
@@ -451,7 +451,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "http://pti162su22.youhui112.com/Xbiubiu/lezhutv.json",
-	  "spider": "https://raw.githubusercontents.coms/TVBoxOXC/TV/main/jar/6.jar"
+	  "spider": "https://raw.githubusercontents.com/TVBoxOXC/TV/main/jar/6.jar"
     },
     {
       "key": "csp_xpath_gr",
@@ -462,7 +462,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://pti162su22.youhui112.com/Xbiubiu/519-gongreng.json",
-	  "spider": "https://raw.githubusercontents.coms/TVBoxOXC/TV/main/jar/6.jar"
+	  "spider": "https://raw.githubusercontents.com/TVBoxOXC/TV/main/jar/6.jar"
     },
     {
       "key": "csp_xpath_bttwoo",
@@ -473,7 +473,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://pti162su22.youhui112.com/Xbiubiu/bttwoo.json",
-	  "spider": "https://raw.githubusercontents.coms/TVBoxOXC/TV/main/jar/6.jar"
+	  "spider": "https://raw.githubusercontents.com/TVBoxOXC/TV/main/jar/6.jar"
     },
     {
       "key": "csp_xpath_xiangdao",
@@ -484,7 +484,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://pti162su22.youhui112.com/Xbiubiu/xiangdao.json",
-	  "spider": "https://raw.githubusercontents.coms/TVBoxOXC/TV/main/jar/6.jar"
+	  "spider": "https://raw.githubusercontents.com/TVBoxOXC/TV/main/jar/6.jar"
     },
     {
       "key": "csp_xpath_tjyy",
@@ -495,7 +495,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://pti162su22.youhui112.com/Xbiubiu/huigutongying.json",
-	  "spider": "https://raw.githubusercontents.coms/TVBoxOXC/TV/main/jar/6.jar"
+	  "spider": "https://raw.githubusercontents.com/TVBoxOXC/TV/main/jar/6.jar"
     },
     {
       "key": "csp_xpath_saohuotv",
@@ -506,7 +506,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "http://pti162su22.youhui112.com/Xbiubiu/saohuotv2.json",
-	  "spider": "https://raw.githubusercontents.coms/TVBoxOXC/TV/main/jar/6.jar"
+	  "spider": "https://raw.githubusercontents.com/TVBoxOXC/TV/main/jar/6.jar"
     },
     {
       "key": "csp_xpath_zxzj2",
@@ -517,7 +517,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://pti162su22.youhui112.com/Xbiubiu/zxzj2.json",
-	  "spider": "https://raw.githubusercontents.coms/TVBoxOXC/TV/main/jar/6.jar"
+	  "spider": "https://raw.githubusercontents.com/TVBoxOXC/TV/main/jar/6.jar"
     },
     {
       "key": "csp_xpath_Jumi",
@@ -528,7 +528,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://pti162su22.youhui112.com/Xbiubiu/Jumi.json",
-	  "spider": "https://raw.githubusercontents.coms/TVBoxOXC/TV/main/jar/6.jar"
+	  "spider": "https://raw.githubusercontents.com/TVBoxOXC/TV/main/jar/6.jar"
     },
     {
       "key": "csp_xpath_jpys",
@@ -539,7 +539,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://pti162su22.youhui112.com/Xbiubiu/jpys.json",
-	  "spider": "https://raw.githubusercontents.coms/TVBoxOXC/TV/main/jar/6.jar"
+	  "spider": "https://raw.githubusercontents.com/TVBoxOXC/TV/main/jar/6.jar"
     },
     {
       "key": "csp_xpath_xuangz",
@@ -550,7 +550,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://pti162su22.youhui112.com/Xbiubiu/xuangz.json",
-	  "spider": "https://raw.githubusercontents.coms/TVBoxOXC/TV/main/jar/6.jar"
+	  "spider": "https://raw.githubusercontents.com/TVBoxOXC/TV/main/jar/6.jar"
     },
     {
       "key": "csp_xpath_6d",
@@ -561,7 +561,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://pti162su22.youhui112.com/Xbiubiu/6d.json",
-	  "spider": "https://raw.githubusercontents.coms/TVBoxOXC/TV/main/jar/6.jar"
+	  "spider": "https://raw.githubusercontents.com/TVBoxOXC/TV/main/jar/6.jar"
     },
     {
       "key": "csp_xpath_doujiaow",
@@ -572,7 +572,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "http://pti162su22.youhui112.com/Xbiubiu/doujiaow.json",
-	  "spider": "https://raw.githubusercontents.coms/TVBoxOXC/TV/main/jar/6.jar"
+	  "spider": "https://raw.githubusercontents.com/TVBoxOXC/TV/main/jar/6.jar"
     },
     {
       "key": "csp_xpath_naikan",
@@ -583,7 +583,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://pti162su22.youhui112.com/Xbiubiu/516-naikan.js",
-	  "spider": "https://raw.githubusercontents.coms/TVBoxOXC/TV/main/jar/6.jar"
+	  "spider": "https://raw.githubusercontents.com/TVBoxOXC/TV/main/jar/6.jar"
     },
     {
       "key": "csp_xpath_hhys",
@@ -594,7 +594,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://pti162su22.youhui112.com/Xbiubiu/604-huohuo.js",
-	  "spider": "https://raw.githubusercontents.coms/TVBoxOXC/TV/main/jar/6.jar"
+	  "spider": "https://raw.githubusercontents.com/TVBoxOXC/TV/main/jar/6.jar"
     },
     {
       "key": "csp_xpath_heidong",
@@ -605,7 +605,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://pti162su22.youhui112.com/Xbiubiu/505-heidong.js",
-	  "spider": "https://raw.githubusercontents.coms/TVBoxOXC/TV/main/jar/6.jar"
+	  "spider": "https://raw.githubusercontents.com/TVBoxOXC/TV/main/jar/6.jar"
     },
     {
       "key": "csp_xpath_钉钉",
@@ -616,7 +616,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://pti162su22.youhui112.com/Xbiubiu/519-dingzidy.json",
-	  "spider": "https://raw.githubusercontents.coms/TVBoxOXC/TV/main/jar/6.jar"
+	  "spider": "https://raw.githubusercontents.com/TVBoxOXC/TV/main/jar/6.jar"
     },
     {
       "key": "csp_xpath_dm84",
@@ -627,7 +627,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "http://pti162su22.youhui112.com/Xbiubiu/dm84.json",
-	  "spider": "https://raw.githubusercontents.coms/TVBoxOXC/TV/main/jar/6.jar"
+	  "spider": "https://raw.githubusercontents.com/TVBoxOXC/TV/main/jar/6.jar"
     },
     {
       "key": "csp_biubiu_555影视",
@@ -638,7 +638,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://pti162su22.youhui112.com/Xbiubiu/三五电影.json",
-	  "spider": "https://raw.githubusercontents.coms/TVBoxOXC/TV/main/jar/6.jar"
+	  "spider": "https://raw.githubusercontents.com/TVBoxOXC/TV/main/jar/6.jar"
     },
     {
       "key": "csp_biubiu_555电影",
@@ -649,7 +649,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "http://pti162su22.youhui112.com/Xbiubiu/555电影.json",
-	  "spider": "https://raw.githubusercontents.coms/TVBoxOXC/TV/main/jar/6.jar"
+	  "spider": "https://raw.githubusercontents.com/TVBoxOXC/TV/main/jar/6.jar"
     },
     {
       "key": "csp_biubiu_奈落影院",
@@ -660,7 +660,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "http://pti162su22.youhui112.com/Xbiubiu/奈落影院.json",
-	  "spider": "https://raw.githubusercontents.coms/TVBoxOXC/TV/main/jar/6.jar"
+	  "spider": "https://raw.githubusercontents.com/TVBoxOXC/TV/main/jar/6.jar"
     },
     {
       "key": "csp_biubiu_剧白白-蓝光",
@@ -671,7 +671,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "http://pti162su22.youhui112.com/Xbiubiu/剧白白-蓝光.json",
-	  "spider": "https://raw.githubusercontents.coms/TVBoxOXC/TV/main/jar/6.jar"
+	  "spider": "https://raw.githubusercontents.com/TVBoxOXC/TV/main/jar/6.jar"
     },
     {
       "key": "csp_biubiu_鸭奈飞",
@@ -682,7 +682,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "http://pti162su22.youhui112.com/Xbiubiu/鸭奈飞.json",
-	  "spider": "https://raw.githubusercontents.coms/TVBoxOXC/TV/main/jar/6.jar"
+	  "spider": "https://raw.githubusercontents.com/TVBoxOXC/TV/main/jar/6.jar"
     },
     {
       "key": "csp_biubiu_小强迷",
@@ -693,7 +693,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "http://pti162su22.youhui112.com/Xbiubiu/小强迷.json",
-	  "spider": "https://raw.githubusercontents.coms/TVBoxOXC/TV/main/jar/6.jar"
+	  "spider": "https://raw.githubusercontents.com/TVBoxOXC/TV/main/jar/6.jar"
     },
     {
       "key": "csp_biubiu_桔子TV",
@@ -704,7 +704,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://pti162su22.youhui112.com/Xbiubiu/桔子TV.json",
-	  "spider": "https://raw.githubusercontents.coms/TVBoxOXC/TV/main/jar/6.jar"
+	  "spider": "https://raw.githubusercontents.com/TVBoxOXC/TV/main/jar/6.jar"
     },
     {
       "key": "csp_biubiu_乐猪影视",
@@ -715,7 +715,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://pti162su22.youhui112.com/Xbiubiu/乐猪影视.json",
-	  "spider": "https://raw.githubusercontents.coms/TVBoxOXC/TV/main/jar/6.jar"
+	  "spider": "https://raw.githubusercontents.com/TVBoxOXC/TV/main/jar/6.jar"
     },
     {
       "key": "csp_biubiu_厂长资源-蓝光",
@@ -726,7 +726,7 @@
       "quickSearch": 0,
       "filterable": 0,
       "ext": "http://pti162su22.youhui112.com/Xbiubiu/厂长资源-蓝光.json",
-	  "spider": "https://raw.githubusercontents.coms/TVBoxOXC/TV/main/jar/6.jar"
+	  "spider": "https://raw.githubusercontents.com/TVBoxOXC/TV/main/jar/6.jar"
     },
     {
       "key": "csp_biubiu_骚火电影",
@@ -737,7 +737,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://pti162su22.youhui112.com/Xbiubiu/骚火电影.json",
-	  "spider": "https://raw.githubusercontents.coms/TVBoxOXC/TV/main/jar/6.jar"
+	  "spider": "https://raw.githubusercontents.com/TVBoxOXC/TV/main/jar/6.jar"
     },
     {
       "key": "csp_biubiu_白熊",
@@ -748,7 +748,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://pti162su22.youhui112.com/Xbiubiu/白熊.json",
-	  "spider": "https://raw.githubusercontents.coms/TVBoxOXC/TV/main/jar/6.jar"
+	  "spider": "https://raw.githubusercontents.com/TVBoxOXC/TV/main/jar/6.jar"
     },
     {
       "key": "csp_biubiu_LIBVIO",
@@ -759,7 +759,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://pti162su22.youhui112.com/Xbiubiu/LIBVIO.json",
-	  "spider": "https://raw.githubusercontents.coms/TVBoxOXC/TV/main/jar/6.jar"
+	  "spider": "https://raw.githubusercontents.com/TVBoxOXC/TV/main/jar/6.jar"
     },
     {
       "key": "csp_biubiu_city",
@@ -770,7 +770,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "http://pti162su22.youhui112.com/Xbiubiu/city.js",
-	  "spider": "https://raw.githubusercontents.coms/TVBoxOXC/TV/main/jar/6.jar"
+	  "spider": "https://raw.githubusercontents.com/TVBoxOXC/TV/main/jar/6.jar"
     },
     {
       "key": "csp_biubiu_手机看剧",
@@ -781,7 +781,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "http://pti162su22.youhui112.com/Xbiubiu/b06-sjkj.js",
-	  "spider": "https://raw.githubusercontents.coms/TVBoxOXC/TV/main/jar/6.jar"
+	  "spider": "https://raw.githubusercontents.com/TVBoxOXC/TV/main/jar/6.jar"
     },
     {
       "key": "csp_biubiu_口袋影院",
@@ -792,7 +792,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "http://pti162su22.youhui112.com/Xbiubiu/b07-kdys.js",
-	  "spider": "https://raw.githubusercontents.coms/TVBoxOXC/TV/main/jar/6.jar"
+	  "spider": "https://raw.githubusercontents.com/TVBoxOXC/TV/main/jar/6.jar"
     },
     {
       "key": "csp_biubiu_特狗影视",
@@ -803,7 +803,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://pti162su22.youhui112.com/Xbiubiu/特狗影视.json",
-	  "spider": "https://raw.githubusercontents.coms/TVBoxOXC/TV/main/jar/6.jar"
+	  "spider": "https://raw.githubusercontents.com/TVBoxOXC/TV/main/jar/6.jar"
     },
     {
       "key": "csp_biubiu_在线之家",
@@ -814,7 +814,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "http://pti162su22.youhui112.com/Xbiubiu/在线之家.json",
-	  "spider": "https://raw.githubusercontents.coms/TVBoxOXC/TV/main/jar/6.jar"
+	  "spider": "https://raw.githubusercontents.com/TVBoxOXC/TV/main/jar/6.jar"
     },
     {
       "key": "csp_biubiu_迷你库",
@@ -825,7 +825,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://pti162su22.youhui112.com/Xbiubiu/迷你库.json",
-	  "spider": "https://raw.githubusercontents.coms/TVBoxOXC/TV/main/jar/6.jar"
+	  "spider": "https://raw.githubusercontents.com/TVBoxOXC/TV/main/jar/6.jar"
     },
     {
       "key": "csp_biubiu_影视工厂",
@@ -836,7 +836,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://pti162su22.youhui112.com/Xbiubiu/影视工厂.json",
-	  "spider": "https://raw.githubusercontents.coms/TVBoxOXC/TV/main/jar/6.jar"
+	  "spider": "https://raw.githubusercontents.com/TVBoxOXC/TV/main/jar/6.jar"
     },
     {
       "key": "csp_biubiu_1080看视界",
@@ -847,7 +847,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://pti162su22.youhui112.com/Xbiubiu/1080看视界.json",
-	  "spider": "https://raw.githubusercontents.coms/TVBoxOXC/TV/main/jar/6.jar"
+	  "spider": "https://raw.githubusercontents.com/TVBoxOXC/TV/main/jar/6.jar"
     },
     {
       "key": "csp_biubiu_刚刚影院",
@@ -858,7 +858,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://pti162su22.youhui112.com/Xbiubiu/刚刚影院.json",
-	  "spider": "https://raw.githubusercontents.coms/TVBoxOXC/TV/main/jar/6.jar"
+	  "spider": "https://raw.githubusercontents.com/TVBoxOXC/TV/main/jar/6.jar"
     },
     {
       "key": "csp_biubiu_蜂鸟",
@@ -869,7 +869,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://pti162su22.youhui112.com/Xbiubiu/蜂鸟.json",
-	  "spider": "https://raw.githubusercontents.coms/TVBoxOXC/TV/main/jar/6.jar"
+	  "spider": "https://raw.githubusercontents.com/TVBoxOXC/TV/main/jar/6.jar"
     },
     {
       "key": "csp_biubiu_真的卡影院",
@@ -880,7 +880,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://pti162su22.youhui112.com/Xbiubiu/真的卡影院.json",
-	  "spider": "https://raw.githubusercontents.coms/TVBoxOXC/TV/main/jar/6.jar"
+	  "spider": "https://raw.githubusercontents.com/TVBoxOXC/TV/main/jar/6.jar"
     },
     {
       "key": "csp_biubiu_蓝光影院",
@@ -891,7 +891,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://pti162su22.youhui112.com/Xbiubiu/蓝光影院.json",
-	  "spider": "https://raw.githubusercontents.coms/TVBoxOXC/TV/main/jar/6.jar"
+	  "spider": "https://raw.githubusercontents.com/TVBoxOXC/TV/main/jar/6.jar"
     },
     {
       "key": "诺讯资源",
