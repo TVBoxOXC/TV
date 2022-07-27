@@ -1,7 +1,7 @@
 {
 "spider":"https://raw.githubusercontents.com/TVBoxOXC/TV/main/jar/QQXQ.jar",
 "spider":"https://raw.fastgit.org/TVBoxOXC/TV/main/jar/QQXQ.jar",
-"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnRzLmNvbS9sZWV4dWJlbi9UVkJveC9tYWluL3R4dC90djg4LnR4dA=="]}]}],
+"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnRzLmNvbS9UVkJveE9YQy9UVi9tYWluL3R4dC90djg4LnR4dA=="]}]}],
 "sites": [
 //{"key": "少儿","name": "🅰️少儿教育","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.fastgit.org/leexuben/TVBox/main/json/SQJY.json"},
 {"key": "csp_QQ","name": "🐞腾讯视频🇨🇳🇨🇳","type": 3,"api": "csp_QQ","searchable": 1, "quickSearch": 1,"filterable": 1},
