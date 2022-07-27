@@ -10,7 +10,13 @@
       "filterable": 1,
 	  "spider": "https://raw.githubusercontents.com/TVBoxOXC/TV/main/jar/6.jar"
     },
-  {
+//{"key": "csp_Bili","name": "🅱️哔哩套餐","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.githubusercontents.com/TVBoxOXC/TV/main/json/BILIBILI.json","spider": "https://raw.githubusercontents.com/TVBoxOXC/TV/main/jar/MV.jar"},
+//{"key": "csp_Bili","name": "🅰️云星演唱会","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.githubusercontents.com/TVBoxOXC/TV/main/json/YCH.json","spider": "https://raw.githubusercontents.com/TVBoxOXC/TV/main/jar/MV.jar"},
+//{"key": "csp_Bili","name": "🅰️云星戏曲","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.githubusercontents.com/TVBoxOXC/TV/main/json/XQ.json","spider": "https://raw.githubusercontents.com/TVBoxOXC/TV/main/jar/MV.jar"},
+//{"key": "csp_Bili","name": "🅰️少儿教育","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.githubusercontents.com/TVBoxOXC/TV/main/json/SQJY.json","spider": "https://raw.githubusercontents.com/TVBoxOXC/TV/main/jar/MV.jar"},
+//{"key": "csp_MV","name": "🌈歌曲MV","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.githubusercontents.com/TVBoxOXC/TV/main/json/MV.json","spider": "https://raw.githubusercontents.com/TVBoxOXC/TV/main/jar/MV.jar"},
+//{"key":"csp_sp293","name":"🌈吾爱293","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,"ext":"","spider": "https://raw.githubusercontents.com/TVBoxOXC/TV/main/jar/MV.jar"},
+    {
       "key": "csp_SP360",
       "name": "🧲360(点我换网址)",
       "type": 3,
